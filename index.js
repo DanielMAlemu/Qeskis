@@ -40,7 +40,7 @@ var createOverlay = function(base64Image) {
 
         this.opacity(90);
 
-        this.overlayImage('overlay.png');
+        this.overlayImage('overlayy.png');
 
     });
 
